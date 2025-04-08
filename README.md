@@ -27,3 +27,9 @@ Features
 + Portfolio Construction: Forms equally-weighted portfolios rebalanced annually.
 + Performance Measurement: Calculates risk-adjusted returns and conducts statistical inference.
 Reporting: Generates detailed performance reports at ticker, strategy, and portfolio levels.
+
+
+File:
++ Thesis pdf file
++ Complete code file (Final Code)
+
