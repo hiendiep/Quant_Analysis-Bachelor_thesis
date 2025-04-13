@@ -5,9 +5,9 @@
 + Top 1 Thesis Score (9.2) of Student cohort
 
 ## 2. Domain
-Quantitative Trading Strategy Research
-Programming, Software Engineer
-Academic Research
++ Quantitative Trading Strategy Research
++ Programming, Software Engineer
++ Academic Research
 
 ## 3. Served Stakeholder
 Personal project for Bachelor graduation
