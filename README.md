@@ -22,8 +22,8 @@ Mar - June 2024
 
 
 ## 6. Process and Approach
-Input: 12 Currencies ticker price
-Output: Testing statistic of 3,200 strategy portfolio. See here: https://docs.google.com/spreadsheets/d/1h-Hgyuglj80sSApsC6JmyxRsRJNDnqgV/edit?usp=sharing&ouid=101905111734653218108&rtpof=true&sd=true
+Input: 12 Currencies ticker price  
+Output: Testing statistic of 3,200 strategy portfolio. See here: https://docs.google.com/spreadsheets/d/1h-Hgyuglj80sSApsC6JmyxRsRJNDnqgV/edit?usp=sharing&ouid=101905111734653218108&rtpof=true&sd=true  
 Process and Features:
 + Data Loading: Retrieves historical price data for specified cryptocurrency tickers from a local Excel file 
 + Strategy Formulation: Develop MA, R&S, RSI, and MACD algorithm with customizable parameters.
@@ -37,7 +37,7 @@ Process and Features:
 + Time series Trend followings strategies show insignificant positive return and underperform passive investment
 + This performance has degraded over time potentially due to market efficiency and crowded strategies.
 + Long-only portfolios consistently outperform long-short portfolios 
-
++ More detail in the file .pdf 
 
 ## 8. My Role
 - Project owner, Engineer
