@@ -1,8 +1,8 @@
 # Backtest & Inference the effectiveness of 3,200 trend following strategy in Crypto Currency market
 
 ## 1. Project Name
-Bachelor Graduation Thesis - June 2024 - Foreign Trade University HCM (FTU2)
-Top 1 Thesis Score (9.2) of Student cohort
++ Bachelor Graduation Thesis - June 2024 - Foreign Trade University HCM (FTU2)
++ Top 1 Thesis Score (9.2) of Student cohort
 
 ## 2. Domain
 Quantitative Trading Strategy Research
