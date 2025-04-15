@@ -37,7 +37,7 @@ Process and Features:
 + Time series Trend followings strategies show insignificant positive return and underperform passive investment
 + This performance has degraded over time potentially due to market efficiency and crowded strategies.
 + Long-only portfolios consistently outperform long-short portfolios 
-+ More detail in the file .pdf 
++ More detail in the file Report.pdf 
 
 ## 8. My Role
 - Project owner, Engineer
